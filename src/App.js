@@ -7,7 +7,7 @@ import Weather from "./app_component/Weather";
 
 import "weather-icons/css/weather-icons.css";
 
-const Api_Key = "429736441cf3572838aa10530929f7cd";
+const Api_Key = "513d9c0ac40daf005c3c225bc0859a88";
 
 class App extends React.Component {
   constructor() {
@@ -62,12 +62,15 @@ class App extends React.Component {
         this.setState({ icon: icons.Clouds });
     }
   }
-
+  
   calCelsius(temp) {
     let cell = Math.floor(temp - 273.15);
     return cell;
   }
-
+  getBackg(temp){
+    
+  }
+  
   getWeather = async e => {
     e.preventDefault();
 
