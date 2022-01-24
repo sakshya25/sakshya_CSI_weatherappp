@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sakshya_CSI_weatherappp/static/css/main.ddec3934.css",
+    "main.js": "/sakshya_CSI_weatherappp/static/js/main.46a738ea.js",
+    "static/js/787.d62d1c65.chunk.js": "/sakshya_CSI_weatherappp/static/js/787.d62d1c65.chunk.js",
+    "static/media/weathericons-regular-webfont.svg": "/sakshya_CSI_weatherappp/static/media/weathericons-regular-webfont.1341a15172cec8dae06e.svg",
+    "static/media/weathericons-regular-webfont.eot": "/sakshya_CSI_weatherappp/static/media/weathericons-regular-webfont.bb2ec001c20cf752f852.eot",
+    "static/media/weathericons-regular-webfont.ttf": "/sakshya_CSI_weatherappp/static/media/weathericons-regular-webfont.0942d1e1c447d6ce3ffc.ttf",
+    "static/media/weathericons-regular-webfont.woff": "/sakshya_CSI_weatherappp/static/media/weathericons-regular-webfont.371511ddba5fdac0538c.woff",
+    "static/media/26383.jpg": "/sakshya_CSI_weatherappp/static/media/26383.1ce9d26f9e35ed9243f3.jpg",
+    "static/media/weathericons-regular-webfont.woff2": "/sakshya_CSI_weatherappp/static/media/weathericons-regular-webfont.e218aee6928fe3da9ed6.woff2",
+    "index.html": "/sakshya_CSI_weatherappp/index.html",
+    "main.ddec3934.css.map": "/sakshya_CSI_weatherappp/static/css/main.ddec3934.css.map",
+    "main.46a738ea.js.map": "/sakshya_CSI_weatherappp/static/js/main.46a738ea.js.map",
+    "787.d62d1c65.chunk.js.map": "/sakshya_CSI_weatherappp/static/js/787.d62d1c65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddec3934.css",
+    "static/js/main.46a738ea.js"
+  ]
+}
